@@ -4,5 +4,5 @@
  We have added windows server info like publisher,sku,offer info to deploy vm.
  
  Note: we are trying to deploy vm's : ubuntu and windows at a time with in Same Resource group. i want to know where the variables i need to add and change on my code. 
-i
+
  

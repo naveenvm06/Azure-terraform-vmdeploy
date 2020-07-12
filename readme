@@ -1,0 +1,8 @@
+ using terraform we created 5 different files like main.tf , provider.tf , output.tf , terraform.tfvars , variable.tf
+ we created brand new azure portal and after that we created resource group , vnet, subnet, storage account , vm using about terrafor code. 
+
+ We have added windows server info like publisher,sku,offer info to deploy vm.
+ 
+ Note: we are trying to deploy vm's : ubuntu and windows at a time with in Same Resource group. i want to know where the variables i need to add and change on my code. 
+i
+ 
